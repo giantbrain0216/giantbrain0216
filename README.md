@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 Hi, I'm [Giantbrain]()-Oleksii, a passionate self-taught Full Stack Web/Web3 and Mobile App developer from Ukraine. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.  
-- 💼 Any freelance work? Do reach, [email](mailto:giant.brain0216@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help;
+- 💼 Any freelance work? Do reach, [email](mailto:giant.brain0216@gmail.com) ⚡
+- 💬 Ask me about anything, I am happy to help; 😄
 
 
 📈 My GitHub Stats
