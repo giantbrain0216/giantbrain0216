@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Giantbrain]()-Alibi, a passionate Full Stack Web/Web3 and Mobile App developer from Kazakhstan. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Alibi Antaev, a passionate Full Stack Web/Web3 and Mobile App developer from Kazakhstan. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.  
 - 💼 Any freelance work? Do reach, [email](mailto:giant.brain0216@gmail.com) ⚡
