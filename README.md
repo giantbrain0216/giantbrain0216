@@ -30,7 +30,7 @@ I am a passionate Full Stack Developer <img src="https://media.giphy.com/media/W
 
 - 📫 How to reach me **antaevalibi@gmail.com**
 
-- 📄 Know about my experiences [portfolio]([portfolio](https://giantbrain0216.github.io))
+- 📄 Know about my experiences [portfolio](https://giantbrain0216.github.io)
 
 - ⚡ Fun fact **I think I am funny**
 
