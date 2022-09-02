@@ -24,13 +24,13 @@
 I am a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - 🌱 I’m currently learning **Hashgraph**
 
-- 👨‍💻 All of my projects are available at [this.](aaa)
+- 👨‍💻 All of my projects are available at [this.](https://github.com/giantbrain0216?tab=repositories)
 
 - 💬 Ask me about **react, vue, laravel, express...**
 
 - 📫 How to reach me **antaevalibi@gmail.com**
 
-- 📄 Know about my experiences [sss.com](sss.com)
+- 📄 Know about my experiences [portfolio]([portfolio](https://giantbrain0216.github.io))
 
 - ⚡ Fun fact **I think I am funny**
 
