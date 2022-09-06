@@ -21,6 +21,7 @@
 ### :man_technologist: About Me :
 
 
+<p align="center">
 I am a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - 🌱 I’m currently learning **Hashgraph**
 
@@ -33,13 +34,14 @@ I am a passionate Full Stack Developer <img src="https://media.giphy.com/media/W
 - 📄 Know about my experiences [portfolio](https://giantbrain0216.github.io)
 
 - ⚡ Fun fact **I think I am funny**
+</p>
 
 
 ### :telescope: Connect with me :
 
-<p align="left">
-  <a href="https://stackoverflow.com/users/2454122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2454122" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/antaevalibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="antaevalibi" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://stackoverflow.com/users/1185191/james" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2454122" height="30" width="40" /></a>
+  <a href="https://giantbrain0216.github.io" target="blank"><img align="center" src="https://giantbrain0216.github.io/avatar.png" height="30" width="40" /></a>
 </p>
 
 
@@ -53,10 +55,11 @@ I am a passionate Full Stack Developer <img src="https://media.giphy.com/media/W
 
 ### :fire: My Stats :
 
+<p align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=giantbrain0216&theme=vision-friendly-dark)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giantbrain0216&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 
 ---
 
