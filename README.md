@@ -20,22 +20,23 @@
 
 ### :man_technologist: About Me :
 
-
-<p align="center">
+<div align="center">
+  
 I am a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- 🌱 I’m currently learning **Hashgraph**
+ 
+  🌱 I’m currently learning **Hashgraph**
 
-- 👨‍💻 All of my projects are available at [this.](https://github.com/giantbrain0216?tab=repositories)
+ 👨‍💻 All of my projects are available at [this.](https://github.com/giantbrain0216?tab=repositories)
 
-- 💬 Ask me about **react, vue, laravel, express...**
+ 💬 Ask me about **react, vue, laravel, express...**
 
-- 📫 How to reach me **antaevalibi@gmail.com**
+ 📫 How to reach me **antaevalibi@gmail.com**
 
-- 📄 Know about my experiences [portfolio](https://giantbrain0216.github.io)
+ 📄 Know about my experiences [portfolio](https://giantbrain0216.github.io)
 
-- ⚡ Fun fact **I think I am funny**
-</p>
-
+ ⚡ Fun fact **I think I am funny**
+  
+</div>
 
 ### :telescope: Connect with me :
 
@@ -55,11 +56,13 @@ I am a passionate Full Stack Developer <img src="https://media.giphy.com/media/W
 
 ### :fire: My Stats :
 
-<p align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=giantbrain0216&theme=vision-friendly-dark)](https://git.io/streak-stats)
-<br>
+<div align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giantbrain0216&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=giantbrain0216&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
