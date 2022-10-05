@@ -30,7 +30,7 @@ I am a passionate Full Stack Developer <img src="https://media.giphy.com/media/W
 
  💬 Ask me about **react, vue, laravel, express...**
 
- 📫 How to reach me **antaevalibi@gmail.com**
+ 📫 How to reach me **giantoleksii@gmail.com**
 
  📄 Know about my experiences [portfolio](https://giantbrain0216.github.io)
 
